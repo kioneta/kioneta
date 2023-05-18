@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 -  I worked directly with LDA model and selected the appropriate parameters for the model.
 
 You can contact me via:
+
 [![Telegram Badge](https://img.shields.io/badge/-chagaevakristina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kioneta) 
+
 [![Gmail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:ymnuc@mail.ru)
