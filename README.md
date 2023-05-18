@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently looking for job as data analytics.
-- Im a begginer in big data analisys, but im already have some relevant expirience such as:
-- ⚡ I wrote a data converter on VBA for my previous work.
-- 👯 I made a lot of dashboards for my team and manager. 
-- 🌱 I worked directly with LDA model and selected the appropriate parameters for the model.
+🔭 I’m currently looking for job as data analytics.
+ Im a begginer in big data analisys, but im already have some relevant expirience such as:
+-  I wrote a data converter on VBA for my previous work.
+-  I made a lot of dashboards for my team and manager. 
+-  I worked directly with LDA model and selected the appropriate parameters for the model.
