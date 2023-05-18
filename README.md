@@ -45,6 +45,10 @@ You can contact me via:  [![Telegram Badge](https://img.shields.io/badge/-chagae
 ### 💻 Languages:
 
 ![Badge](https://img.shields.io/badge/-SQL-blue?style=flat&logo=SQL&logoColor=white)
+![Badge](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white)
+![Badge](https://img.shields.io/badge/-VBA-blue?style=flat&logo=VBA&logoColor=white)
+![Badge](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white)
+
 <div>
 <p align="left">
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> </a> 
