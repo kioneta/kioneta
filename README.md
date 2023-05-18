@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Chagaeva Kristina 👋
 
 <!--
 **kioneta/kioneta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently looking for jog as data analytic.
+- 🔭 I’m currently looking for job as data analytics.
+- Im a begginer in big data analisys, but im already have some relevant expirience such as:
+- ⚡ I wrote a data converter on VBA for my previous work.
+- 👯 I made a lot of dashboards for my team and manager. 
+- 🌱 I worked directly with LDA model and selected the appropriate parameters for the model.
