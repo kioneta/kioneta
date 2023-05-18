@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 -  I wrote a data converter on VBA for my previous work.
 -  I made a lot of dashboards for my team and manager. 
 -  I worked directly with LDA model and selected the appropriate parameters for the model.
+
+You can contact me via [![Telegram Badge](https://img.shields.io/badge/-chagaevakristina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kioneta) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ymnuc@mail.ru)
