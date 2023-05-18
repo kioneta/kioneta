@@ -63,12 +63,11 @@ You can contact me via:  [![Telegram Badge](https://img.shields.io/badge/-chagae
 
 ---
 
-### 🛠 Libraries:
+### 🛠 Python Libraries:
 
-<div>
-   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/> </a>
- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="scikit_learn" alt="scikit_learn" width="40" height="40"/> </a> 
- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="seaborn" alt="seaborn" width="40" height="40"/> </a> </p>
-</div>
+![Badge](https://img.shields.io/badge/-Pandas-blue?style=flat&logo=Pandas&logoColor=white)
+![Badge](https://img.shields.io/badge/-Numpay-blue?style=flat&logo=Numpay&logoColor=white)
+![Badge](https://img.shields.io/badge/-matplotlib-blue?style=flat&logo=matplotlib&logoColor=white)
+![Badge](https://img.shields.io/badge/-seaborn-blue?style=flat&logo=seaborn&logoColor=white)
 
 ---
