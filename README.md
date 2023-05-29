@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently looking for job as data analytics.
+🔭 I’m looking for job as data analytics.
  Im a begginer in big data analisys, but im already have some relevant expirience such as:
 -  I wrote a data converter on VBA for my previous work.
 -  I made a lot of dashboards for my team and manager. 
--  I worked directly with LDA model and selected the appropriate parameters for the model.
+-  I worked directly in NLP sphere with LDA model and selected the appropriate parameters for the model.
 
 You can contact me via:  [![Telegram Badge](https://img.shields.io/badge/-chagaevakristina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kioneta)             [![Gmail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:ymnuc@mail.ru)
 
