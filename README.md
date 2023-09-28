@@ -67,8 +67,10 @@ You can contact me via:  [![Telegram Badge](https://img.shields.io/badge/-chagae
 ### 🛠 Python Libraries:
 
 ![Badge](https://img.shields.io/badge/-Pandas-blue?style=flat&logo=Pandas&logoColor=white)
+![Badge](https://img.shields.io/badge/-Sklearn-blue?style=flat&logo=seaborn&logoColor=white)
 ![Badge](https://img.shields.io/badge/-Numpay-blue?style=flat&logo=Numpay&logoColor=white)
-![Badge](https://img.shields.io/badge/-matplotlib-blue?style=flat&logo=matplotlib&logoColor=white)
-![Badge](https://img.shields.io/badge/-seaborn-blue?style=flat&logo=seaborn&logoColor=white)
+![Badge](https://img.shields.io/badge/-Matplotlib-blue?style=flat&logo=matplotlib&logoColor=white)
+![Badge](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=seaborn&logoColor=white)
+![Badge](https://img.shields.io/badge/-Plotly-blue?style=flat&logo=seaborn&logoColor=white)
 
 ---
